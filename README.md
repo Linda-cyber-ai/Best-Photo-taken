@@ -1,3 +1,4 @@
+##Summary
 # Best-Photo-taken
 Taking the best photo in crowded places and with the best light.
 1.	Optimal photo in crowded tourist spots: AI can help to make up guide for visting different tourist spots during a holiday and make sure less other tourist are there at the same time if you want to take good pictures and avoid crowdes. This can also be combinated with weather casts and analysis of daylight.
